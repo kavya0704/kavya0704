@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm kavya shaw</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> AI Developer | Full Stack Web Developer | UI/UX Designer
+
+I build AI-powered web applications that solve real-world problems.
+Currently focused on:
+- 🤖 AI Career Copilot
+- 💼 Resume Shapeshifter
+- ✉️ AI Cold Email Generator
+- 🌐 Modern Full Stack Websites
+
+🎯 Goal:
+Build products that impact thousands of people while mastering AI engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya0704&label=Profile%20views&color=0e75b6&style=flat" alt="kavya0704" /> </p>
 
@@ -9,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.topcoder.com/members/712104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="712104" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavya-025b5a251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="712104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
